@@ -24,3 +24,6 @@
 
 # Ignore uploads from Paperclip
 /public/system
+
+# Ignore RubyMine IDE config files
+.idea
